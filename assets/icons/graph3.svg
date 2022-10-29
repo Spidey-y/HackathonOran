@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="317" height="60" viewBox="0 0 317 60">
+  <g id="Groupe_46" data-name="Groupe 46" transform="translate(-56 -64)">
+    <rect id="Rectangle_388" data-name="Rectangle 388" width="317" height="60" rx="20" transform="translate(56 64)" fill="#fff"/>
+    <rect id="Rectangle_390" data-name="Rectangle 390" width="88" height="34" rx="12" transform="translate(272 77)" fill="#f1f1f1"/>
+    <rect id="Rectangle_389" data-name="Rectangle 389" width="88" height="34" rx="12" transform="translate(69 77)" fill="#f1f1f1"/>
+    <text id="BREAD" transform="translate(180 113)" fill="#1c6758" font-size="20" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">BREAD</tspan></text>
+    <text id="_5" data-name="5" transform="translate(210 89)" fill="#1c6758" font-size="20" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">5</tspan></text>
+    <text id="Consume" transform="translate(80 99)" font-size="14" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Consume</tspan></text>
+    <text id="Add" transform="translate(302 99)" font-size="14" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Add</tspan></text>
+  </g>
+</svg>

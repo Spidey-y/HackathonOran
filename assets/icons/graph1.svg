@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="438" height="281" viewBox="0 0 438 281">
+  <defs>
+    <filter id="Rectangle_205" x="0" y="0" width="438" height="281" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Groupe_44" data-name="Groupe 44" transform="translate(5 -131)">
+    <g transform="matrix(1, 0, 0, 1, -5, 131)" filter="url(#Rectangle_205)">
+      <rect id="Rectangle_205-2" data-name="Rectangle 205" width="378" height="221" rx="25" transform="translate(30 25)" fill="#fff"/>
+    </g>
+    <line id="Ligne_249" data-name="Ligne 249" x2="321" transform="translate(54 345)" fill="none" stroke="#d6cda4" stroke-width="1" opacity="0.3"/>
+    <line id="Ligne_250" data-name="Ligne 250" x2="321" transform="translate(54 320)" fill="none" stroke="#d6cda4" stroke-width="1" opacity="0.3"/>
+    <line id="Ligne_251" data-name="Ligne 251" x2="321" transform="translate(54 296)" fill="none" stroke="#d6cda4" stroke-width="1" opacity="0.3"/>
+    <line id="Ligne_252" data-name="Ligne 252" x2="321" transform="translate(54 270)" fill="none" stroke="#d6cda4" stroke-width="1" opacity="0.3"/>
+    <line id="Ligne_253" data-name="Ligne 253" x2="321" transform="translate(54 245)" fill="none" stroke="#d6cda4" stroke-width="1" opacity="0.3"/>
+    <line id="Ligne_254" data-name="Ligne 254" x2="321" transform="translate(54 221)" fill="none" stroke="#d6cda4" stroke-width="1" opacity="0.3"/>
+    <text id="SAT" transform="translate(54 357)" fill="#3e5a15" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700" opacity="0.85"><tspan x="0" y="0">SAT</tspan></text>
+    <text id="SUN" transform="translate(103 357)" fill="#3e5a15" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700" opacity="0.85"><tspan x="0" y="0">SUN</tspan></text>
+    <text id="MON" transform="translate(154 357)" fill="#3e5a15" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700" opacity="0.85"><tspan x="0" y="0">MON</tspan></text>
+    <text id="TUE" transform="translate(208 357)" fill="#3e5a15" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700" opacity="0.85"><tspan x="0" y="0">TUE</tspan></text>
+    <text id="WED" transform="translate(255 357)" fill="#3e5a15" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700" opacity="0.85"><tspan x="0" y="0">WED</tspan></text>
+    <text id="THU" transform="translate(307 357)" fill="#3e5a15" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700" opacity="0.85"><tspan x="0" y="0">THU</tspan></text>
+    <text id="FRI" transform="translate(355 357)" fill="#3e5a15" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700" opacity="0.85"><tspan x="0" y="0">FRI</tspan></text>
+    <path id="Tracé_120" data-name="Tracé 120" d="M-942,1211s21.165-24.618,46.471-24.618,37.778,38.827,63.787,38.827,24.614-14.466,46.8-14.209,37.432,50.871,59.965,50.593,27.726-15.584,46.115-15.584,28.377,16.64,56.16,16.64" transform="translate(996 -966)" fill="none" stroke="#78b325" stroke-linecap="round" stroke-width="2"/>
+    <text id="WEEKLY_WASTING_STATISTICS" data-name="WEEKLY WASTING STATISTICS" transform="translate(122 180)" fill="#1c6758" font-size="12" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">WEEKLY WASTING STATISTICS</tspan></text>
+  </g>
+</svg>
